@@ -1,2 +1,2 @@
 # Diabets-Prediction
-I have predicted diabetes in this project.
+In this project, I did end-to-end data preprocessing and variable engineering. I used the CART algorithm.
